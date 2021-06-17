@@ -1,5 +1,8 @@
 
-- ![git](https://user-images.githubusercontent.com/35066448/122383205-3d8bb500-cf88-11eb-8214-640a3f2c8883.gif)
+- 👋 Hi, I’m @sam76870
+- 👀 I’m interested in Playing games, travelling, make websites
+- 🌱 I’m currently learning web developing
+
 
 
 
